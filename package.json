@@ -11,6 +11,7 @@
   "dependencies": {
     "face-api.js": "^0.22.2",
     "looks-same": "^9.0.1",
+    "node-webcam": "^0.8.2",
     "pixelmatch": "^6.0.0",
     "pngjs": "^7.0.0",
     "resemblejs": "^5.0.0"

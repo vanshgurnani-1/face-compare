@@ -1,0 +1,51 @@
+# Node.js dependencies
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Models and other heavy files
+models/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Cache and output files
+*.cache
+*.tmp
+dist/
+build/
+out/
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary files
+tmp/
+*.tmp
+temp/
+*.temp
+
+# Captured images
+live_image.jpg
+
+# Coverage directory for test outputs
+coverage/
+
+# Miscellaneous
+*.swp
